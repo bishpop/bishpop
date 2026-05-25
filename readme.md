@@ -72,7 +72,7 @@ Focused on C#, native C++ extensions, and clean, functional software.
 
 ## 📊 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=bishpop&show_icons=true&theme=tokyonight&hide_border=true&title_color=E0AF68&icon_color=E0AF68&bg_color=1a1a2e" />
+<img src="https://github-readme-stats.vercel.app/api?username=bishpop&show_icons=true&theme=tokyonight&hide_border=true&title_color=E0AF68&icon_color=E0AF68&bg_color=1a1a2e&cache_seconds=1800" />
 
 ---
 
