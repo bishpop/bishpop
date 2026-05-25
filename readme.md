@@ -1,4 +1,4 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=E0AF68&height=200&section=header&text=Sanya&fontSize=70&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Tool%20Developer%20%26%20Charting%20Nerd&descAlignY=58&descSize=20)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=E0AF68&height=200&section=header&text=Sanya&fontSize=70&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Tool+Developer+%26+Charting+Nerd&descAlignY=58&descSize=20)
 
 <div align="center">
 
