@@ -56,7 +56,7 @@ Focused on C#, native C++ extensions, and clean, functional software.
 - 🎮 Passionate about rhythm games and charting logic
 - 🔧 I build tools that solve real workflow problems
 - 💻 Specializing in **C#**, **C++**, and **UI/UX**
-- 🌐 Check out my full project docs at [sanyatools.netlify.app](https://sanyatools.netlify.app/)
+- 🌐 Check out my full project docs at [bishpop.github](https://bishpop.github.io/sanya/)
 
 ---
 
