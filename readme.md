@@ -85,13 +85,13 @@ Native C++ workflow extensions for Arrow Vortex.
 
 <br>
 
-#### 🔇 AV Silencer Plugin
+### 🔇 AV Silencer Plugin
 
 WAV → OGG silencing with automated LUFS normalization, directly integrated into Arrow Vortex.
 
 ![AV Silencer Preview](https://bishpop.github.io/sanya/assets/silencer.png)
 
-#### ⚙️ AV Converter Plugin
+### ⚙️ AV Converter Plugin
 
 Fully ported C++ version of the SanConverter logic, built natively into Arrow Vortex. Exports ready-to-use `.slk` files on-the-fly without an external executable.
 
