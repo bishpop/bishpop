@@ -23,7 +23,7 @@ Focused on C#, native C++ extensions, and clean, functional software.
       <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white" />
       <img src="https://img.shields.io/badge/WPF-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
       <br><br>
-      <a href="https://sanyatools.netlify.app/sanconverter">📄 Documentation & Download</a>
+      <a href="https://bishpop.github.io/sanya/sanconverter.html">📄 Documentation & Download</a>
     </td>
   </tr>
   <tr>
@@ -34,7 +34,7 @@ Focused on C#, native C++ extensions, and clean, functional software.
       <img src="https://img.shields.io/badge/Status-Active-E0AF68?style=flat-square&labelColor=1a1a2e" />
       <img src="https://img.shields.io/badge/C++-Native-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
       <br><br>
-      <a href="https://sanyatools.netlify.app/arrowvortex">📄 Documentation</a>
+      <a href="https://bishpop.github.io/sanya/arrowvortex.html">📄 Documentation</a>
     </td>
     <td width="50%" valign="top">
       <h3>🔉 Silencer</h3>
