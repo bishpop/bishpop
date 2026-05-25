@@ -41,6 +41,7 @@ Focused on C#, native C++ extensions, and clean, functional software.
       <p>Open source audio processing tool to silence <code>.ogg</code> files. Optimal workflow: FLAC → WAV → OGG. Final stable build at v1.5.</p>
       <br>
       <img src="https://img.shields.io/badge/Status-Stable-6a9fb5?style=flat-square&labelColor=1a1a2e" />
+      <img src="https://img.shields.io/badge/C++-Native-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
       <img src="https://img.shields.io/badge/Version-1.5-grey?style=flat-square" />
       <br><br>
       <a href="https://github.com/bishpop/SilencerAudition/releases">📦 GitHub Release</a>
