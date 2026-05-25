@@ -44,7 +44,7 @@ Focused on C#, native C++ extensions, and clean, functional software.
       <img src="https://img.shields.io/badge/C++-Native-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
       <img src="https://img.shields.io/badge/Version-1.5-grey?style=flat-square" />
       <br><br>
-      <a href="https://github.com/bishpop/SilencerAudition/releases">📦 GitHub Release</a>
+      <a href="https://github.com/bishpop/SilencerAudition">📦 GitHub Release</a>
     </td>
   </tr>
 </table>
