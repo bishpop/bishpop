@@ -1,6 +1,8 @@
+![Header](https://capsule-render.vercel.app/api?type=waving&color=E0AF68&height=200&section=header&text=Sanya&fontSize=70&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Tool%20Developer%20%26%20Charting%20Nerd&descAlignY=58&descSize=20)
+
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Inter&size=28&duration=3000&pause=1000&color=E0AF68&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Sanya+%F0%9F%91%8B;Tool+Developer+%26+Charting+Nerd;Building+things+that+just+work.)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Inter&size=26&duration=3000&pause=1000&color=E0AF68&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Sanya+%F0%9F%91%8B;Tool+Developer+%26+Charting+Nerd;Building+things+that+just+work.)
 
 <br>
 
@@ -17,11 +19,10 @@ Focused on C#, native C++ extensions, and clean, functional software.
   <tr>
     <td width="50%" valign="top">
       <h3>⚙️ SanConverter</h3>
-      <p>The ultimate tool to convert <code>.SM</code> and <code>.SSC</code> files to <code>.SLK</code> format. Built with .NET 4.8. Actively maintained with full Beat Up and One-Two Party logic support.</p>
+      <p>The ultimate tool to convert <code>.SM</code> and <code>.SSC</code> files to <code>.SLK</code> format. Built as a C# WPF application on .NET 4.8. Actively maintained with full Beat Up and One-Two Party logic support.</p>
       <img src="https://img.shields.io/badge/Status-Active-E0AF68?style=flat-square&labelColor=1a1a2e" />
-      <img src="https://img.shields.io/badge/.NET-4.8-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
-      <img src="https://img.shields.io/badge/WPF-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
       <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white" />
+      <img src="https://img.shields.io/badge/WPF-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
     </td>
     <td width="50%" valign="top">
       <h3>🔌 Arrow Vortex Plugins</h3>
@@ -50,7 +51,7 @@ Focused on C#, native C++ extensions, and clean, functional software.
 - 🎮 Passionate about rhythm games and charting logic
 - 🔧 I build tools that solve real workflow problems
 - 💻 Specializing in **C#**, **C++**, and **UI/UX**
-- 🌐 Check out my full project docs at [bishpop](https://sanyatools.netlify.app/)
+- 🌐 Check out my full project docs at [sanyatools.netlify.app](https://sanyatools.netlify.app/)
 
 ---
 
@@ -65,9 +66,19 @@ Focused on C#, native C++ extensions, and clean, functional software.
 
 ---
 
-<img src="https://github-readme-stats.vercel.app/api?username=bishpop&show_icons=true&theme=tokyonight&hide_border=true&title_color=E0AF68&icon_color=E0AF68" />
+## 📊 GitHub Stats
+
+<img src="https://github-readme-stats.vercel.app/api?username=bishpop&show_icons=true&theme=tokyonight&hide_border=true&title_color=E0AF68&icon_color=E0AF68&bg_color=1a1a2e" />
 
 ---
+
+## 🐍 Contribution Snake
+
+![Snake](https://raw.githubusercontent.com/bishpop/bishpop/output/github-contribution-grid-snake.svg)
+
+---
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=E0AF68&height=100&section=footer)
 
 *© 2026 Sanya — All rights reserved.*
 
