@@ -12,45 +12,6 @@ Focused on C#, native C++ extensions, and clean, functional software.
 
 ---
 
-## 🛠 Projects
-
-<table>
-  <tr>
-    <td colspan="2" valign="top">
-      <h3>🎼 SanConverter</h3>
-      <p>The ultimate tool to convert <code>.SM</code> and <code>.SSC</code> files to <code>.SLK</code> format. Built as a C# WPF application on .NET 4.8. Actively maintained with full Beat Up and One-Two Party logic support.</p>
-      <img src="https://img.shields.io/badge/Status-Active-E0AF68?style=flat-square&labelColor=1a1a2e" />
-      <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white" />
-      <img src="https://img.shields.io/badge/WPF-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
-      <br><br>
-      <a href="https://bishpop.github.io/sanya/sanconverter.html">📄 Documentation & Download</a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🎵 Arrow Vortex Plugins</h3>
-      <p>Native C++ workflow extensions for Arrow Vortex. WAV → OGG silencing with LUFS normalization and direct SLK measure exporting.</p>
-      <br>
-      <img src="https://img.shields.io/badge/Status-Active-E0AF68?style=flat-square&labelColor=1a1a2e" />
-      <img src="https://img.shields.io/badge/C++-Native-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
-      <br><br>
-      <a href="https://bishpop.github.io/sanya/arrowvortex.html">📄 Documentation</a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🔉 Silencer</h3>
-      <p>Open source audio processing tool to silence <code>.ogg</code> files. Optimal workflow: FLAC → WAV → OGG. Final stable build at v1.5.</p>
-      <br>
-      <img src="https://img.shields.io/badge/Status-Stable-6a9fb5?style=flat-square&labelColor=1a1a2e" />
-      <img src="https://img.shields.io/badge/C++-Native-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
-      <img src="https://img.shields.io/badge/Version-1.5-grey?style=flat-square" />
-      <br><br>
-      <a href="https://github.com/bishpop/SilencerAudition">📦 GitHub Release</a>
-    </td>
-  </tr>
-</table>
-
----
-
 ## 👤 About Me
 
 - 🎮 Passionate about rhythm games and charting logic
@@ -68,6 +29,73 @@ Focused on C#, native C++ extensions, and clean, functional software.
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+---
+
+## 🛠 Projects
+
+---
+
+### 🎼 SanConverter
+
+The ultimate tool to convert `.SM` and `.SSC` files to `.SLK` format. Built as a C# WPF application on .NET 4.8. Actively maintained with full Beat Up and One-Two Party logic support.
+
+![Status](https://img.shields.io/badge/Status-Active-E0AF68?style=flat-square&labelColor=1a1a2e)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
+![WPF](https://img.shields.io/badge/WPF-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+
+<br>
+
+[![Documentation & Download](https://img.shields.io/badge/📄_Documentation_&_Download-E0AF68?style=for-the-badge&labelColor=1a1a2e&color=E0AF68)](https://bishpop.github.io/sanya/sanconverter.html)
+
+<br>
+
+![SanConverter Preview](https://bishpop.github.io/sanya/assets/sanconverter.png)
+
+---
+
+### 🔉 Silencer
+
+Open source audio processing tool to silence `.ogg` files. Optimal workflow: FLAC → WAV → OGG. Final stable build at v1.5.
+
+![Status](https://img.shields.io/badge/Status-Stable-6a9fb5?style=flat-square&labelColor=1a1a2e)
+![C++](https://img.shields.io/badge/C++-Native-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Version](https://img.shields.io/badge/Version-1.5-grey?style=flat-square)
+
+<br>
+
+[![GitHub Release](https://img.shields.io/badge/📦_GitHub_Release-E0AF68?style=for-the-badge&labelColor=1a1a2e&color=E0AF68)](https://github.com/bishpop/SilencerAudition)
+
+<br>
+
+![Silencer Preview](https://github.com/bishpop/bishpop/blob/main/assets/silencerapp.png)
+
+---
+
+### 🎵 Arrow Vortex Plugins
+
+Native C++ workflow extensions for Arrow Vortex.
+
+![Status](https://img.shields.io/badge/Status-Active-E0AF68?style=flat-square&labelColor=1a1a2e)
+![C++](https://img.shields.io/badge/C++-Native-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+
+<br>
+
+[![Documentation](https://img.shields.io/badge/📄_Documentation-E0AF68?style=for-the-badge&labelColor=1a1a2e&color=E0AF68)](https://bishpop.github.io/sanya/arrowvortex.html)
+
+<br>
+
+#### 🔇 AV Silencer Plugin
+
+WAV → OGG silencing with automated LUFS normalization, directly integrated into Arrow Vortex.
+
+![AV Silencer Preview](https://bishpop.github.io/sanya/assets/silencer.png)
+
+#### ⚙️ AV Converter Plugin
+
+Fully ported C++ version of the SanConverter logic, built natively into Arrow Vortex. Exports ready-to-use `.slk` files on-the-fly without an external executable.
+
+![AV Converter Preview](https://bishpop.github.io/sanya/assets/converter.png)
 
 ---
 
