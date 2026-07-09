@@ -51,7 +51,7 @@ A modern, open-source rhythm game engine and advanced chart editor, specifically
 
 <br>
 
-![SanPlayer Preview](https://bishpop.github.io/sanya/assets/sanplayer.png)
+![SanPlayer Preview](https://bishpop.github.io/sanya/assets/san_player.png)
 
 ---
 
