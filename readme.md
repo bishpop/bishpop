@@ -36,6 +36,25 @@ Focused on C#, native C++ extensions, and clean, functional software.
 
 ---
 
+### 🎵 SanPlayer (SBP Editor & Player)
+
+A modern, open-source rhythm game engine and advanced chart editor, specifically built for 6-Key / BeatUp style mechanics. Features dual-view editing, live gameplay playback, smart undo/redo, auto-saving, and native `.slk` / `.ssc` support.
+
+![Status](https://img.shields.io/badge/Status-Active-E0AF68?style=flat-square&labelColor=1a1a2e)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
+![WPF](https://img.shields.io/badge/WPF-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![Version](https://img.shields.io/badge/Version-v0.2.3_Pre--Release-orange?style=flat-square&labelColor=1a1a2e)
+
+<br>
+
+[![GitHub Repository](https://img.shields.io/badge/📦_GitHub_Repository-E0AF68?style=for-the-badge&labelColor=1a1a2e&color=E0AF68)](https://github.com/bishpop/SBP-BeatUp-Editor-and-Player)
+
+<br>
+
+![SanPlayer Preview](https://bishpop.github.io/sanya/assets/sanplayer.png)
+
+---
+
 ### 🎼 SanConverter
 
 The ultimate tool to convert `.SM` and `.SSC` files to `.SLK` format. Built as a C# WPF application on .NET 4.8. Actively maintained with full Beat Up and One-Two Party logic support.
