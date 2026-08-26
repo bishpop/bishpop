@@ -37,7 +37,7 @@ Focused on C#, native C++ extensions, and clean, functional software.
 ---
 
 ### 🎵 BeatUp Engine
-## Editor and Player
+#### Editor and Player
 
 **BeatUp Engine** is a high-performance, lightweight 2D rhythm game engine and chart editor written in modern C++. It acts as a spiritual successor and standalone simulator for classic 6-key + spacebar arcade rhythm games. 
 
@@ -49,15 +49,17 @@ Featuring low latency, precise frame timings, and a fully featured user interfac
 [![ImGui](https://img.shields.io/badge/Dear%20ImGui-1D1D1D?style=flat-square&logo=c%2B%2B&logoColor=white)](https://github.com/ocornut/imgui)
 ![Version](https://img.shields.io/badge/Version-v0.1_Release-purple?style=flat-square&labelColor=1a1a2e)
 
+[![Documentation](https://img.shields.io/badge/📄_Documentation-E0AF68?style=for-the-badge&labelColor=1a1a2e&color=E0AF68)](https://bishpop.github.io/sanya/patcher.html)
+
 <br>
 
-## ⭐ Main Menu
+#### ⭐ Main Menu
 ![BeatUp Engine UI Main Menu](https://github.com/bishpop/beatupengine/blob/main/MainMenu.png?raw=true)
 
-## ⭐ Chart Editor
+#### ⭐ Chart Editor
 ![BeatUp Engine UI Main Menu](https://github.com/bishpop/beatupengine/blob/main/BuEditor.png?raw=true)
 
-## ⭐ Patcher
+#### ⭐ Patcher
 ![BeatUp Engine UI Main Menu](https://github.com/bishpop/beatupengine/blob/main/BuPatcher.png?raw=true)
 
 <br>
