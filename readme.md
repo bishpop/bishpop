@@ -36,22 +36,32 @@ Focused on C#, native C++ extensions, and clean, functional software.
 
 ---
 
-### 🎵 SanPlayer (SBP Editor & Player)
+### 🎵 BeatUp Engine
+## Editor and Player
 
-A modern, open-source rhythm game engine and advanced chart editor, specifically built for 6-Key / BeatUp style mechanics. Features dual-view editing, live gameplay playback, smart undo/redo, auto-saving, and native `.slk` / `.ssc` support.
+**BeatUp Engine** is a high-performance, lightweight 2D rhythm game engine and chart editor written in modern C++. It acts as a spiritual successor and standalone simulator for classic 6-key + spacebar arcade rhythm games. 
+
+Featuring low latency, precise frame timings, and a fully featured user interface, it provides both players and chart mappers with a robust rhythm gaming experience.
 
 ![Status](https://img.shields.io/badge/Status-Active-E0AF68?style=flat-square&labelColor=1a1a2e)
-![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
-![WPF](https://img.shields.io/badge/WPF-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![Version](https://img.shields.io/badge/Version-v0.2.3_Pre--Release-orange?style=flat-square&labelColor=1a1a2e)
+[![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)](https://isocpp.org/)
+[![SDL2](https://img.shields.io/badge/SDL2-953D43?style=flat-square&logo=sdl&logoColor=white)](https://www.libsdl.org/)
+[![ImGui](https://img.shields.io/badge/Dear%20ImGui-1D1D1D?style=flat-square&logo=c%2B%2B&logoColor=white)](https://github.com/ocornut/imgui)
+![Version](https://img.shields.io/badge/Version-v0.1_Release-purple?style=flat-square&labelColor=1a1a2e)
 
 <br>
 
-[![GitHub Repository](https://img.shields.io/badge/📦_GitHub_Repository-E0AF68?style=for-the-badge&labelColor=1a1a2e&color=E0AF68)](https://github.com/bishpop/SBP-BeatUp-Editor-and-Player)
+## ⭐ Main Menu
+![BeatUp Engine UI Main Menu](https://github.com/bishpop/beatupengine/blob/main/MainMenu.png?raw=true)
+
+## ⭐ Chart Editor
+![BeatUp Engine UI Main Menu](https://github.com/bishpop/beatupengine/blob/main/BuEditor.png?raw=true)
+
+## ⭐ Patcher
+![BeatUp Engine UI Main Menu](https://github.com/bishpop/beatupengine/blob/main/BuPatcher.png?raw=true)
 
 <br>
 
-![SanPlayer Preview](https://raw.githubusercontent.com/bishpop/bishpop/main/assets/san_player.png)
 ---
 
 ### 🎼 SanConverter
