@@ -102,21 +102,6 @@ Open source audio processing tool to silence `.ogg` files. Optimal workflow: FLA
 
 ---
 
-### 🎵 Arrow Vortex Plugins
-
-Native C++ workflow extensions for Arrow Vortex.
-
-![Status](https://img.shields.io/badge/Status-Active-E0AF68?style=flat-square&labelColor=1a1a2e)
-![C++](https://img.shields.io/badge/C++-Native-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-
-<br>
-
-[![Documentation](https://img.shields.io/badge/📄_Documentation-E0AF68?style=for-the-badge&labelColor=1a1a2e&color=E0AF68)](https://bishpop.github.io/sanya/arrowvortex.html)
-
-<br>
-
----
-
 ## 📊 GitHub Stats
 
 <img src="https://github-readme-stats.vercel.app/api?username=bishpop&show_icons=true&theme=tokyonight&hide_border=true&title_color=E0AF68&icon_color=E0AF68&bg_color=1a1a2e&cache_seconds=1800" />
