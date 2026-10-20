@@ -116,6 +116,4 @@ Open source audio processing tool to silence `.ogg` files. Optimal workflow: FLA
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=E0AF68&height=100&section=footer" />
 
-*© 2026 Sanya — All rights reserved.*
-
 </div>
