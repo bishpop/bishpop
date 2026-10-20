@@ -47,7 +47,7 @@ Featuring low latency, precise frame timings, and a fully featured user interfac
 [![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)](https://isocpp.org/)
 [![SDL2](https://img.shields.io/badge/SDL2-953D43?style=flat-square&logo=sdl&logoColor=white)](https://www.libsdl.org/)
 [![ImGui](https://img.shields.io/badge/Dear%20ImGui-1D1D1D?style=flat-square&logo=c%2B%2B&logoColor=white)](https://github.com/ocornut/imgui)
-![Version](https://img.shields.io/badge/Version-v0.1_Release-purple?style=flat-square&labelColor=1a1a2e)
+![Version](https://img.shields.io/badge/Version-v1.1_Release-purple?style=flat-square&labelColor=1a1a2e)
 
 [![Documentation](https://img.shields.io/badge/📄_Documentation-E0AF68?style=for-the-badge&labelColor=1a1a2e&color=E0AF68)](https://bishpop.github.io/sanya/patcher.html)
 
