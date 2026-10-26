@@ -1,6 +1,6 @@
 # Sanya
 
-I'm a student of **Digital Business & IT-Management (B.A.)** and I build tools for rhythm game charting and audio workflows in **C++** and **C#**.
+I'm a student of **Business & IT-Management (B.A.)** and I build tools for rhythm game charting and audio workflows in **C++** and **C#**.
 
 - Background in Java, Python, HTML/CSS and MySQL; I'm deepening my C++ and C# skills through my own projects
 - Coursework includes system architecture and process modelling (ARIS), ERP systems (SAP) and databases
